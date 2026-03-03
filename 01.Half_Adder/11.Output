@@ -1,0 +1,45 @@
+# KERNEL: GENERATOR
+# KERNEL:  A=0 | B=1 | Sum=0 | Carry=0 
+# KERNEL: DRIVER
+# KERNEL:  A=0 | B=1 | Sum=0 | Carry=0 
+# KERNEL: MONITOR
+# KERNEL:  A=0 | B=1 | Sum=1 | Carry=0 
+# KERNEL: SCOREBOARD
+# KERNEL:  A=0 | B=1 | Sum=1 | Carry=0 
+# KERNEL: --------------P--A--S--S--------------
+# KERNEL: GENERATOR
+# KERNEL:  A=0 | B=1 | Sum=0 | Carry=0 
+# KERNEL: DRIVER
+# KERNEL:  A=0 | B=1 | Sum=0 | Carry=0 
+# KERNEL: MONITOR
+# KERNEL:  A=0 | B=1 | Sum=1 | Carry=0 
+# KERNEL: SCOREBOARD
+# KERNEL:  A=0 | B=1 | Sum=1 | Carry=0 
+# KERNEL: --------------P--A--S--S--------------
+# KERNEL: GENERATOR
+# KERNEL:  A=1 | B=0 | Sum=0 | Carry=0 
+# KERNEL: DRIVER
+# KERNEL:  A=1 | B=0 | Sum=0 | Carry=0 
+# KERNEL: MONITOR
+# KERNEL:  A=1 | B=0 | Sum=1 | Carry=0 
+# KERNEL: SCOREBOARD
+# KERNEL:  A=1 | B=0 | Sum=1 | Carry=0 
+# KERNEL: --------------P--A--S--S--------------
+# KERNEL: GENERATOR
+# KERNEL:  A=0 | B=0 | Sum=0 | Carry=0 
+# KERNEL: DRIVER
+# KERNEL:  A=0 | B=0 | Sum=0 | Carry=0 
+# KERNEL: MONITOR
+# KERNEL:  A=0 | B=0 | Sum=0 | Carry=0 
+# KERNEL: SCOREBOARD
+# KERNEL:  A=0 | B=0 | Sum=0 | Carry=0 
+# KERNEL: --------------P--A--S--S--------------
+# KERNEL: GENERATOR
+# KERNEL:  A=1 | B=1 | Sum=0 | Carry=0 
+# KERNEL: DRIVER
+# KERNEL:  A=1 | B=1 | Sum=0 | Carry=0 
+# KERNEL: MONITOR
+# KERNEL:  A=1 | B=1 | Sum=0 | Carry=1 
+# KERNEL: SCOREBOARD
+# KERNEL:  A=1 | B=1 | Sum=0 | Carry=1 
+# KERNEL: --------------P--A--S--S--------------
